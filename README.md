@@ -1,2 +1,7 @@
-# demo-patricio-bedetti-servicios-juridicos-e-i
-Demo web para PATRICIO BEDETTI Servicios Jurídicos e Inmobiliarios — diseñada por eterlab.
+# PATRICIO BEDETTI Servicios Jurídicos e Inmobiliarios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
